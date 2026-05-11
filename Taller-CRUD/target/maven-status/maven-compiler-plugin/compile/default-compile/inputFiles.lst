@@ -1,0 +1,9 @@
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/ZooFantasticApplication.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/controler/CreatureController.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/controler/ZoneController.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/model/Creature.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/model/Zone.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/repository/CreatureRepository.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/repository/ZoneRepository.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/service/CreatureService.java
+/Users/julixxxn/Desktop/Taller-CRUD/src/main/java/com/zoo/zoo_fantastic/service/ZoneService.java
